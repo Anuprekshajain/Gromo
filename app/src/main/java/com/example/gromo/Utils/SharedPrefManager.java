@@ -1,7 +1,9 @@
-package com.example.gromo;
+package com.example.gromo.Utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;
+
+import com.example.gromo.Model.User;
 
 public class SharedPrefManager {
     private static SharedPrefManager mInstance;

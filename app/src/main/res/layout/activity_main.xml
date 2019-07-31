@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#ffffff"
     android:padding="5dp"
-    tools:context=".MainActivity"
+    tools:context=".UI.MainActivity"
     android:orientation="vertical">
 
     <android.support.design.widget.TextInputLayout

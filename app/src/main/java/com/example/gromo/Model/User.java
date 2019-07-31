@@ -1,4 +1,4 @@
-package com.example.gromo;
+package com.example.gromo.Model;
 
 public class User {
     private int id;

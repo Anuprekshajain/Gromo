@@ -1,4 +1,4 @@
-package com.example.gromo;
+package com.example.gromo.Utils;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -8,6 +8,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.gromo.Model.Lead;
+import com.example.gromo.R;
 
 import java.util.List;
 

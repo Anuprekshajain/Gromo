@@ -1,4 +1,7 @@
-package com.example.gromo;
+package com.example.gromo.Api;
+
+import com.example.gromo.Model.Result;
+import com.example.gromo.Model.Users;
 
 import retrofit2.Call;
 import retrofit2.http.Field;

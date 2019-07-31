@@ -1,5 +1,6 @@
-package com.example.gromo;
+package com.example.gromo.Model;
 
+import com.example.gromo.Model.User;
 import com.google.gson.annotations.SerializedName;
 
 public class Result {

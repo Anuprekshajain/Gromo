@@ -1,4 +1,4 @@
-package com.example.gromo;
+package com.example.gromo.UI;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -7,6 +7,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.example.gromo.Api.ApiService;
+import com.example.gromo.Api.ApiUrl;
+import com.example.gromo.R;
+import com.example.gromo.Model.Result;
+import com.example.gromo.Utils.SharedPrefManager;
 
 import retrofit2.Call;
 import retrofit2.Callback;

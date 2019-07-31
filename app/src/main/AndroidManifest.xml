@@ -13,11 +13,11 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
         <activity
-            android:name=".HomeActivity"
+            android:name=".UI.HomeActivity"
             android:label="@string/title_activity_lead"
             android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".UI.LoginActivity" />
+        <activity android:name=".UI.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

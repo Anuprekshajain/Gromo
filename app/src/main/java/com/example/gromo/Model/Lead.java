@@ -1,4 +1,6 @@
-package com.example.gromo;
+package com.example.gromo.Model;
+
+import com.example.gromo.R;
 
 import java.util.ArrayList;
 
